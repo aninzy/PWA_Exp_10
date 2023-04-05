@@ -1,6 +1,6 @@
 {
-    "name":"Food App",
-    "short_name":"foodapp",
+    "name":"7 Wonders of the World",
+    "short_name":"Wonders",
     "start_url":"/basic.html",
     "display":"standalone",
     "background_color":"#FFE9D2",
